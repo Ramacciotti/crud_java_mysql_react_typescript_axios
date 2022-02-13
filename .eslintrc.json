@@ -1,0 +1,29 @@
+{
+  "extends": ["plugin:react/recommended", "plugin:@typescript-eslint/recommended", "eslint-config-prettier"],
+
+  "parserOptions": {
+    "ecmaVersion": 2017,
+    "sourceType": "module"
+  },
+
+  "env": {
+    "browser": true,
+    "es2021": true
+  },
+
+  "rules": {
+    "no-shadow": "off",
+    "react-hooks/rules-of-hooks": "off",
+    "react-hooks/exhaustive-deps": "off",
+    "react/jsx-wrap-multilines": "off",
+    "import/prefer-default-export": "off",
+    "react/jsx-props-no-spreading": "off",
+    "react/prop-types": "off",
+    "no-underscore-dangle": "off",
+    "no-use-before-define": "off",
+    "@typescript-eslint/explicit-function-return-type": ["off"],
+    "@typescript-eslint/no-use-before-define": ["error"],
+    "unused-imports/no-unused-imports": "off"
+  } 
+}
+
