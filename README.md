@@ -1,4 +1,4 @@
-# Fullstack CRUD Project: Java, React, Typescript, Axios
+# Fullstack CRUD Project: Java, SpringBoot, Mysql, React, Typescript, Axios
 
 🎙️ Hello, how are you? Glad to see you here! 
 
