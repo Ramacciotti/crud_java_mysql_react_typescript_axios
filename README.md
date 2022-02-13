@@ -1,5 +1,8 @@
-# Fullstack CRUD Project: Java, SpringBoot, React, Typescript, Axios
+# Read to start with frontend development?
 
-🎙️ Hello, how are you? Glad to see you here! 
+🎙️ Follow the steps below to run this project:
 
-🎙️ This is a fullstack project that involves both backend and frontend. So, if you are in the learning process, this project can help you understand some concepts better.
+1. Clone the project in a empty folder;
+2. Select the 'frontend' branch;
+3. Open the code editor terminal and type 'npm install';
+4. After that is over, type 'npm start';
