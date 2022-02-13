@@ -1,15 +1,10 @@
-# Fullstack CRUD Project: Java, SpringBoot, Mysql, React, Typescript, Axios
+Read to start with backend development?
 
-🎙️ Hello, how are you? Glad to see you here! 
+🎙️ Follow the steps below to run this project:
 
-🎙️ This is a fullstack project that involves both backend and frontend. So, if you are in the learning process, this project can help you understand some concepts better.
-
-## This is awesome! What do I need to start? 💬
-
-🎙️ Good question. For this one, you´ll need installed in your machine:
-
-- Node.js
-- Java SDK 17
-- Mysql
-- IDE (recomendation: Intellij)
-- Code Editor (recomendation: Visual Studio Code)
+1. Clone the project in a empty folder;
+2. Select the 'backend' branch;
+3. Open the project on your IDE;
+4. Open the 'main' application.properties file;
+5. Enter your Mysql database password and your Mysql database username;
+6. Run the project;
