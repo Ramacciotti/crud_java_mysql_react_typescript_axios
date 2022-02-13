@@ -10,5 +10,6 @@
 
 - Node.js
 - Java SDK 17
+- Mysql
 - IDE (recomendation: Intellij)
 - Code Editor (recomendation: Visual Studio Code)
